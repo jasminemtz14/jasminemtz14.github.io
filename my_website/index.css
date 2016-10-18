@@ -1,0 +1,8 @@
+@import url(//fonts.googleapis.com/css?family=Cormorant+Garamond);  
+.main{
+            background-color:lightblue;
+            color:white;
+            border-style:dotted;
+            font-family:'Cormorant Garamond',serif;
+       }
+ 
